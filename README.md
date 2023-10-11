@@ -1,6 +1,8 @@
 # Trigammon
 Backgammon for 3 players
 
+![board, a number of squares and pawns suitable for 3 players](Trigammon.svg)
+
 ## Rules
 
 Trigammon is a variation of Backgammon with a [board, a number of squares and pawns suitable for 3 players](Trigammon.svg).
